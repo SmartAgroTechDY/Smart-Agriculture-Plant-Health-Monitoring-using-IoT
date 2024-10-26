@@ -1,4 +1,5 @@
 # Smart Agriculture Plant Health Monitoring using IoT 🌱
+## This project is licensed under the terms of the Apache license 2.0
 
 ## Problem Statement 
 Traditional agriculture faces significant challenges, such as inefficient resource management, unpredictable weather patterns. These problems lead to reduced productivity, higher operational costs, and increased environmental impact.
